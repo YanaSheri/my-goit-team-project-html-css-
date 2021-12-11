@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://yanasheri.github.io/my-goit-team-project-html-css-",
+  "homepage": "https://YanaSheri.github.io/my-goit-team-project-html-css-",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /my-goit-team-project-html-css-/"
